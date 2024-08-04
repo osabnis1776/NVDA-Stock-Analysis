@@ -1,4 +1,4 @@
-Financial Data Analysis for NVIDIA (NVDA) Stock
+  Financial Risk Analysis for NVIDIA (NVDA) Stock
 
 Project Description
 
